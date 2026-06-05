@@ -221,11 +221,11 @@ Melalui proyek ini, konsep-konsep berikut diimplementasikan secara langsung:
 
 Sean Antonio Tarigan
 
-D4 Teknik Telekomunikasi
+D4 Teknologi Rekayasa Internet
 
 Politeknik Elektronika Negeri Surabaya (PENS)
 
-Email: [elingibles@gmail.com](mailto:elingibles@gmail.com)
+Email: seannoname07@gmail.com
 
 ---
 
